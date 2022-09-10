@@ -6,7 +6,6 @@
 
 
 	/**
-
 	 * main - entry point
 
 	 *
@@ -22,7 +21,6 @@
 	{
 
 		int n;
-
 	
 
 		srand(time(0));
