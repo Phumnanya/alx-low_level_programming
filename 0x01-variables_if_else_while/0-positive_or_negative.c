@@ -18,7 +18,6 @@
 
 	int main(void)
 	{
-
 		int n;	
 
 		srand(time(0));
