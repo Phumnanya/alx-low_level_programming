@@ -1,13 +1,11 @@
-nclude <stdlib.h>
+#include <stdlib.h>
 
 	#include <time.h>
 
 	#include <stdio.h>
 
-	
 
 	/**
-
 	 * main - entry point
 
 	 *
@@ -19,12 +17,8 @@ nclude <stdlib.h>
 	 */
 
 	int main(void)
-
 	{
-
-		int n;
-
-	
+	int n;	
 
 		srand(time(0));
 
